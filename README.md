@@ -19,7 +19,7 @@
   - [📝 License ](#-license-)
 
 # 📖 Math-magicians2 <a name="about-project"></a>
-This is a simple application made with react that is intended to be used for mathematical calculations 
+This is a simple application made with react that is intended to be used for mathematical calculations.
 
 ## 🛠 Built With <a name="built-with"></a>
  **Build with React JS**

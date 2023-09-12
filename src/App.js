@@ -1,9 +1,9 @@
-import './App.css';
+import './calculator.css';
+import Calculator from './components/Calculator';
 
 function App() {
   return (
-    <>
-    </>
+    <Calculator />
   );
 }
 

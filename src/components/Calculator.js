@@ -10,7 +10,7 @@ const Calculator = () => {
   });
 
   const clickEvent = (e) => {
-    const buttonName = e.currentTarget.textContent;
+    const buttonName = e.target.name; // <- changed from e.currentTarget.textContent
     const newState = calculate(calculation, buttonName);
     setCalculation(newState);
   };

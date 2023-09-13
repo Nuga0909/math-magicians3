@@ -1,6 +1,7 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
-function Buttons(clickEvent) {
+function Buttons({ clickEvent }) {
   return (
     <div className="buttons">
       <div className="col-1 button-container flex">
@@ -74,5 +75,9 @@ function Buttons(clickEvent) {
     </div>
   );
 }
+
+Buttons.propTypes = {
+  clickEvent: PropTypes.func.isRequired,
+};
 
 export default Buttons;

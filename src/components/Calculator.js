@@ -22,7 +22,7 @@ const Calculator = () => {
       <div className="Output-bar flex button-container">
         {calculation.next || calculation.operation || calculation.total || '0'}
       </div>
-      <Buttons />
+      <Buttons clickEvent={clickEvent} />
     </div>
   );
 };

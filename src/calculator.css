@@ -13,7 +13,7 @@
 }
 
 .container {
-  height: 100vh;
+  height: 80vh;
   flex-direction: column;
   font-size: 20px;
 }
@@ -51,4 +51,16 @@
 
 .Zero {
   width: 100%;
+}
+
+.author {
+  text-align: end;
+}
+
+.aquote {
+  padding: 1rem 25%;
+}
+
+.loading {
+  text-align: center;
 }

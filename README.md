@@ -87,6 +87,12 @@ To run the project, execute the following command:
 - Twitter: [@twitterhandle](https://twitter.com/nuga0909)
 - LinkedIn: [LinkedIn](linkedin.com/in/adeshina-adenuga-282036171)
 
+👤 **King Immanuel**
+
+- GitHub: [@Kingno3l]
+- Twitter: [@Kingno3l]
+
+
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Add mark up for calculator**
